@@ -19,7 +19,7 @@ section {
     background-color: black;
     color: rgb(219, 219, 219);
     text-align: center;
-    width: 350px;
+    width: 300px;
     height: 130px;
     padding: 20px;
     position: absolute;
@@ -36,7 +36,7 @@ section {
 }
 
 #data2 {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 a {

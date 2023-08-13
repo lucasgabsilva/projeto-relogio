@@ -20,7 +20,7 @@ section {
     background-color: rgb(221, 221, 221);
     color: rgb(97, 97, 97);
     text-align: center;
-    width: 350px;
+    width: 300px;
     height: 130px;
     padding: 20px;
     position: absolute;
@@ -37,7 +37,7 @@ section {
 }
 
 #data2 {
-    font-size: 1.4em;
+    font-size: 1.3em;
 }
 
 a {
